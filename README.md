@@ -155,6 +155,83 @@ https://medienbildung-muenchen.de/wp-content/uploads/schule/selbstlernmaterial/l
 
 https://manual.limesurvey.org/Administering_LimeSurvey/de
 
+
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+<details>
+<summary>Was ist LimeSurvey?</summary>
+LimeSurvey ist eine Open-Source-Software, die dir ermöglicht, Umfragen zu erstellen, zu verwalten und auszuwerten. Es ist besonders nützlich für wissenschaftliche Forschung, Marktforschung und Kundenfeedback.
+</details>
+
+<details>
+<summary>Wie erstelle ich eine neue Umfrage?</summary>
+1. Melde dich bei LimeSurvey an.
+2. Klicke auf "Umfragen" und dann auf "Neue Umfrage erstellen".
+3. Fülle die erforderlichen Felder aus (Titel, Beschreibung, etc.).
+4. Klicke auf "Speichern" und füge anschließend Fragen hinzu.
+</details>
+
+<details>
+<summary>Wie füge ich Fragen zu meiner Umfrage hinzu?</summary>
+1. Öffne deine Umfrage.
+2. Gehe zum Reiter "Fragen".
+3. Klicke auf "Frage hinzufügen".
+4. Wähle den Fragetyp aus und fülle die notwendigen Felder aus.
+5. Klicke auf "Speichern".
+</details>
+
+<details>
+<summary>Kann ich verschiedene Fragetypen verwenden?</summary>
+Ja, LimeSurvey unterstützt eine Vielzahl von Fragetypen wie Multiple Choice, Bewertungsskalen, offene Fragen, Matrixfragen und viele mehr.
+</details>
+
+<details>
+<summary>Wie kann ich meine Umfrage testen?</summary>
+1. Öffne deine Umfrage.
+2. Klicke auf "Umfrage testen".
+3. Du kannst jetzt die Umfrage wie ein*e Teilnehmer*in durchgehen, um sicherzustellen, dass alles funktioniert.
+</details>
+
+<details>
+<summary>Wie veröffentliche ich meine Umfrage?</summary>
+1. Öffne deine Umfrage.
+2. Gehe zu "Einstellungen" und dann zu "Veröffentlichung & Zugang".
+3. Setze den Status auf "Aktivieren".
+4. Du kannst jetzt den Link zur Umfrage an deine Teilnehmer*innen senden.
+</details>
+
+<details>
+<summary>Wie sammle ich die Antworten der Teilnehmer*innen?</summary>
+Die Antworten werden automatisch in LimeSurvey gespeichert. Du kannst sie jederzeit unter dem Reiter "Antworten" einsehen und exportieren.
+</details>
+
+<details>
+<summary>Wie exportiere ich die Ergebnisse meiner Umfrage?</summary>
+1. Öffne deine Umfrage.
+2. Gehe zu "Antworten" und dann zu "Antworten & Statistiken".
+3. Wähle "Exportieren" und das gewünschte Dateiformat (z.B. CSV, Excel) aus.
+4. Klicke auf "Exportieren" und speichere die Datei auf deinem Computer.
+</details>
+
+<details>
+<summary>Kann ich die Umfrageergebnisse analysieren?</summary>
+Ja, LimeSurvey bietet grundlegende Analysefunktionen. Du kannst auch die exportierten Daten in anderen Programmen wie Excel oder SPSS weiter analysieren.
+</details>
+
+<details>
+<summary>Wie sichere ich meine Umfrage und die Antworten?</summary>
+Es ist wichtig, regelmäßig Backups zu erstellen. Gehe zu "Einstellungen" und dann zu "Import/Export". Dort kannst du deine Umfrage und Antworten exportieren und sicher speichern.
+</details>
+
+<details>
+<summary>Wie kann ich Hilfe bekommen, wenn ich nicht weiterkomme?</summary>
+Du kannst das Benutzerhandbuch von LimeSurvey verwenden, die Online-Foren durchsuchen oder den Support kontaktieren. Es gibt auch viele Online-Tutorials und Videos, die dir weiterhelfen können.
+</details>
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 
